@@ -1,0 +1,16 @@
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\bin\Debug\net5.0\Bai tập 3 Oop.exe
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\bin\Debug\net5.0\Bai tập 3 Oop.deps.json
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\bin\Debug\net5.0\Bai tập 3 Oop.runtimeconfig.json
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\bin\Debug\net5.0\Bai tập 3 Oop.runtimeconfig.dev.json
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\bin\Debug\net5.0\Bai tập 3 Oop.dll
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\bin\Debug\net5.0\ref\Bai tập 3 Oop.dll
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\bin\Debug\net5.0\Bai tập 3 Oop.pdb
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\obj\Debug\net5.0\Bai tập 3 Oop.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\obj\Debug\net5.0\Bai tập 3 Oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\obj\Debug\net5.0\Bai tập 3 Oop.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\obj\Debug\net5.0\Bai tập 3 Oop.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\obj\Debug\net5.0\Bai tập 3 Oop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\obj\Debug\net5.0\Bai tập 3 Oop.dll
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\obj\Debug\net5.0\ref\Bai tập 3 Oop.dll
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\obj\Debug\net5.0\Bai tập 3 Oop.pdb
+C:\Users\Admin\RiderProjects\Bài tập Oop\Bai tập 3 Oop\obj\Debug\net5.0\Bai tập 3 Oop.genruntimeconfig.cache

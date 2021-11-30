@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bai tập 2 Oop/1.0.0": {
+        "runtime": {
+          "Bai tập 2 Oop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai tập 2 Oop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
